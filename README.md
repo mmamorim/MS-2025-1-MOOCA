@@ -10,3 +10,4 @@
 * Aula03 (06/03) - Modelagem Conceitual
   * [slides](./Modelagem_conceitual.pdf)
   * [intro BRmodelo](./brmodelo.pdf) [download](http://www.sis4.com/brModelo/download.html)
+  * [Modelo Pizzaria versão 1](./pizzaria.brM3)
