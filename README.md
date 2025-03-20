@@ -13,3 +13,4 @@
   * [Modelo Pizzaria versão 1](./pizzaria.brM3)
 * Aula04 (13/03) - Exercícios - Modelagem Conceitual
   * [Exercícios](./exercicios01.md)
+    - Resolução: [Modelo Pizzaria v2](./pizzariav2.png) [Modelo Festa Infantil](./FestasInfantis.png)
