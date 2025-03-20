@@ -15,3 +15,4 @@
   * [Exercícios](./exercicios01.md)
     - Resolução: [Modelo Pizzaria v2](./pizzariav2.png) [Modelo Festa Infantil](./FestasInfantis.png)
 * Aula05 (20/03) - Modelagem Lógica
+* **Aula06** (27/03) Tech Week IX [link](https://animatechweek.com.br/)
