@@ -16,3 +16,5 @@
     - Resolução: [Modelo Pizzaria v2](./pizzariav2.png) [Modelo Festa Infantil](./FestasInfantis.png)
 * Aula05 (20/03) - Modelagem Lógica
 * **Aula06** (27/03) Tech Week IX [link](https://animatechweek.com.br/)
+* Aula07 (03/04) - Modelagem Lógica (Exercício)
+  * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
