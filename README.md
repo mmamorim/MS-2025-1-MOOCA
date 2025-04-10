@@ -18,3 +18,6 @@
 * **Aula06** (27/03) Tech Week IX [link](https://animatechweek.com.br/)
 * Aula07 (03/04) - Modelagem Lógica (Exercício)
   * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
+  * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./SuperCinema.png)
+* Aula08 (10/04) - Modelagem Lógica (Exercício)
+  * [Exercício NAS ALTURAS](./ExercicioVoos.md)
