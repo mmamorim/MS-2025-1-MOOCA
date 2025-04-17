@@ -21,3 +21,6 @@
   * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./arquivos/SuperCinema.png)
 * Aula08 (10/04) - Modelagem Lógica (Exercício)
   * [Exercício NAS ALTURAS](./arquivos/ExercicioVoos.md)
+* Aula09 (17/04) - Modelagem Física (SQL)
+  * Banco de dados SQLite
+  * [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.17/sqlitestudio-3.4.17-windows-x64.zip)
