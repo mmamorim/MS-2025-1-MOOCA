@@ -6,18 +6,18 @@
 
 * Aula01 (20/02) - Apresentação da UC
 * Aula02 (27/02) - Introdução BD
-  * [slides](./09_intro_bd.pdf)  
+  * [slides](./arquivos/09_intro_bd.pdf)  
 * Aula03 (06/03) - Modelagem Conceitual
-  * [slides](./Modelagem_conceitual.pdf)
-  * [intro BRmodelo](./brmodelo.pdf) [download](http://www.sis4.com/brModelo/download.html)
-  * [Modelo Pizzaria versão 1](./pizzaria.brM3)
+  * [slides](./arquivos/Modelagem_conceitual.pdf)
+  * [intro BRmodelo](./arquivos/brmodelo.pdf) [download](http://www.sis4.com/brModelo/download.html)
+  * [Modelo Pizzaria versão 1](./arquivos/pizzaria.brM3)
 * Aula04 (13/03) - Exercícios - Modelagem Conceitual
-  * [Exercícios](./exercicios01.md)
-    - Resolução: [Modelo Pizzaria v2](./pizzariav2.png) [Modelo Festa Infantil](./FestasInfantis.png)
+  * [Exercícios](./arquivos/exercicios01.md)
+    - Resolução: [Modelo Pizzaria v2](./arquivos/pizzariav2.png) [Modelo Festa Infantil](./arquivos/FestasInfantis.png)
 * Aula05 (20/03) - Modelagem Lógica
 * **Aula06** (27/03) Tech Week IX [link](https://animatechweek.com.br/)
 * Aula07 (03/04) - Modelagem Lógica (Exercício)
-  * [Exercício SUPER CINEMA](./ExercicioFilmes.md)
-  * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./SuperCinema.png)
+  * [Exercício SUPER CINEMA](./arquivos/ExercicioFilmes.md)
+  * DER - Super Cinema (Contribuição do Igor Hiroshi) [SuperCinema.png](./arquivos/SuperCinema.png)
 * Aula08 (10/04) - Modelagem Lógica (Exercício)
-  * [Exercício NAS ALTURAS](./ExercicioVoos.md)
+  * [Exercício NAS ALTURAS](./arquivos/ExercicioVoos.md)
