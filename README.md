@@ -34,3 +34,4 @@
 * **(08/05) AVALIAÇÃO A1** 
 * Aula11 (15/05) - SQL [Guia SQL](./guiaSQL.md)
   * SELECT
+  * [Queries da aula](./queriesAula11.sql)
