@@ -30,4 +30,7 @@
 * Aula10 (24/04) - SQL [Guia SQL](./guiaSQL.md)
   * CREATE TABLE
   * INSERT
+  * Banco de Dados (SQLite) criado em Aula [aula9.db](./aula9.db)
+* **(08/05) AVALIAÇÃO A1** 
+* Aula11 (15/05) - SQL [Guia SQL](./guiaSQL.md)
   * SELECT

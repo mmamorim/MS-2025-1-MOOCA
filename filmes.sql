@@ -56,3 +56,18 @@ CREATE TABLE Sessao (
     publico    INTEGER,
     emCartaz   BOOLEAN
 );
+
+INSERT INTO Pais (nome) VALUES ("Brasil")
+INSERT INTO Pais (nome) VALUES ("USA")
+INSERT INTO Pais (nome) VALUES ("França")
+
+INSERT INTO Genero (nome) VALUES ("Ação")
+INSERT INTO Genero (nome) VALUES ("Aventura")
+INSERT INTO Genero (nome) VALUES ("Terror")
+INSERT INTO Genero (nome) VALUES ("Drama")
+
+INSERT INTO Ator (codPais,nome,idade,diretor) VALUES (1,"João",35,false)
+INSERT INTO Ator (codPais,nome,idade,diretor) VALUES (2,"Tom Cruise",60,false)
+INSERT INTO Ator (codPais,nome,idade,diretor) VALUES (2,"Julia Roberts",60,false)
+INSERT INTO Ator (codPais,nome,idade,diretor) VALUES (2,"Stalone",60,false)
+
