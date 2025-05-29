@@ -35,3 +35,5 @@
 * Aula11 (15/05) - SQL [Guia SQL](./guiaSQL.md)
   * SELECT
   * [Queries da aula](./queriesAula11.sql)
+* **DESENVOLVIMENTO DO PROJETO A3** 29/05, 05/06, 12/06
+  * [Enunciado do projeto](./projetoA3.md)
