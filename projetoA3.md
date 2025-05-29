@@ -48,8 +48,8 @@ Exercícios baseados em estudos de caso são uma estratégia altamente eficaz pa
 > **Sua missão neste projeto é criar um exercício baseado em estudo de caso para o aprendizado de modelagem de dados.**
 
 > Para isso, você deverá entregar dois documentos: 
-    - **Exercício de estudo de caso** e 
-    - **Solução do exercício**.
+> * **Exercício de estudo de caso** e 
+> * **Solução do exercício**.
 
 
 ##### Exercício de estudo de caso
