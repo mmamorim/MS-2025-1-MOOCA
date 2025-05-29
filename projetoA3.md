@@ -80,7 +80,9 @@ Deverá ser entregue um documento contendo a solução do exercício.
 # Entrega
 
 **Definição dos grupos:** Prencher formulário de indicação dos grupos [Link p/ formulário](https://forms.gle/YHHpSvTFEEG4hDUMA)
+
 **Data de entrega**: 12/06
+
 **Forma de envio**: (A definir)
 
 
